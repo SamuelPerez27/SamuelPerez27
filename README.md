@@ -14,6 +14,10 @@
     
 </body>
 </html>
+<a href="https://github.com/SamuelPerez27">
+
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPerez27&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=FDFD59&bg_color=2D1650"" alt="">
+    </a>
 
 - 👋 Hi, I’m @SamuelPerez27
 - 👀 I’m interested in ...
