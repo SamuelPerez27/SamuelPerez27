@@ -1,11 +1,10 @@
 
-
+<!--
 - 👋 Hi, I’m @SamuelPerez27
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 
-
-
+-->
 <!--  About Me-->
 <h2> 👋 Hello ! </h2>
 
