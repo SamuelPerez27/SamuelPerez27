@@ -26,5 +26,4 @@
 <h4> <b> Email: </b>   <a href= "mailto:perezsamuel0727@gmail.com"> perezsamuel0727@gmail.com </a> </h4>
 <a href="https://www.linkedin.com/in/starling-samuel-pérez-pérez-3a666720a/">
 <img src="https://camo.githubusercontent.com/088ef8f41e630016909eec018962f61d7451f67bddcecef435fdbe2787a9313a/68747470733a2f2f736869656c64732e696f2f62616467652f436f6e6e6563742532306f6e2532304c696e6b6564496e2d2d626c75653f6c6f676f3d6c696e6b6564696e267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c7565" data-canonical-src="https://shields.io/badge/Connect%20on%20LinkedIn--blue?logo=linkedin&amp;style=for-the-badge&amp;labelColor=blue" style="max-width:100%;">
-
 </a>
